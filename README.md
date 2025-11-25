@@ -30,8 +30,12 @@ This Project demonstrates the Pipeline for Single-Cell Rna Sequencing Anlysis(sc
 ## Key Findings:
 
 **T-Cells:** Naive CD4+, Memory CD4+, and CD8+ T-Cells (Markers: CCR7, LEF1, AQP3, CD4OLG, GZMK, GZMH).
+
 **Monocytes:** Markers(CKB, CDKN1C)
+
 **B-Cells:** Identified by VPREB3, LINCO.
+
 **NK Cells:** Identified by SH2D1B, AKR1C3.
+
 **Dendritic Cells & Platelets:** FCER1A, SERPIN, LY6G6F.
    
